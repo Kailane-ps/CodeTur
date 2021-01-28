@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJJ2lgHyeRKhXKth0LRbovPOflU7g16SkV/mujraFxG3lQfsOr0F05e8ssCLWKcsfCnLbL2yWIe3TH/jX5RB1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kailane\\Documents\\Senai 3t\\CodeTur-Api\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kailane\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
