@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FLp8WH+e25Jp6dgvFKAbslOmGrXfLqBYIDIxSg+XcdOARzawVXQ0rsFLPIKNJ6ES6PTGguz8IRzwDOlkdyfSBw==",
+  "dgSpecHash": "CbR8ZHfYTsN1FDPXDPEkU2ax64y1ABq1p7o4o2MlUMC63h5OCo2NncUgszQ7zU6vTq3fkBizCmsA3HfNT2cM9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kailane\\Documents\\Senai 3t\\CodeTur-Api\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kailane\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+    "C:\\Users\\Kailane\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Kailane\\.nuget\\packages\\flunt.br\\1.4.0\\flunt.br.1.4.0.nupkg.sha512"
   ],
   "logs": []
 }

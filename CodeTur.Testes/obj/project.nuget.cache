@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wKnrCKo7LIL0153UnJdk4WKGPgSKjqFxzMFIKCe2wLeuBNDPtdLKKU3mv/1V+5T+uvaFQzaBkB66A5P9wBLjBA==",
+  "dgSpecHash": "CV53ov2ZNEYkLunKJkE1Cl/ySyJKJn451qoryw8PaVbcvLYoCFggSxKJ5N4tlEktvnO/FGAeNii6GuISHcPZoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kailane\\Documents\\Senai 3t\\CodeTur-Api\\CodeTur\\CodeTur.Testes\\CodeTur.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kailane\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Kailane\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Kailane\\.nuget\\packages\\flunt.br\\1.4.0\\flunt.br.1.4.0.nupkg.sha512",
     "C:\\Users\\Kailane\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Kailane\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Kailane\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",

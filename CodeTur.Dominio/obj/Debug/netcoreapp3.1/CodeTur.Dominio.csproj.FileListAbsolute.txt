@@ -2,3 +2,11 @@ C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\bin\Debu
 C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csprojAssemblyReference.cache
 C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfoInputs.cache
 C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.AssemblyInfo.cs
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.deps.json
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\bin\Debug\netcoreapp3.1\CodeTur.Comum.pdb
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.csproj.CopyComplete
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.dll
+C:\Users\Kailane\Documents\Senai 3t\CodeTur-Api\CodeTur\CodeTur.Dominio\obj\Debug\netcoreapp3.1\CodeTur.Dominio.pdb
