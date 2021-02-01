@@ -2,6 +2,7 @@
 using CodeTur.Comum.Enum;
 using Flunt.Br.Extensions;
 using Flunt.Validations;
+using System;
 using System.Collections.Generic;
 
 namespace CodeTur.Dominio.Entidades
@@ -23,9 +24,9 @@ namespace CodeTur.Dominio.Entidades
             if (Valid)
             {
 
-                Nome        = nome;
-                Email       = email;
-                Senha       = senha;
+                Nome = nome;
+                Email = email;
+                Senha = senha;
                 TipoUsuario = tipoUsuario;
             }
         }
